@@ -1,0 +1,13 @@
+.sub-para {
+    font-style: italic;
+    background-color:silver;
+    color:maroon;
+    padding:5px;
+    width:50%;
+}
+
+.selected-para {
+    font-style: normal;
+    background-color:gold;
+    color:red;
+}
